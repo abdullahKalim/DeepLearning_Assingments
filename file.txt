@@ -1,0 +1,6 @@
+Hello Abdullah
+Kalim 
+Doing git tutorial
+:w
+:w
+
